@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TabLayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="frag2">Halaman Draft</string>
+    <string name="nama_user">Madan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
 </resources>
